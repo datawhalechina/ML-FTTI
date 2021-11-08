@@ -1,7 +1,9 @@
 # 机器学习 - 从原理到实现
 
-- Machine Learning: From Theory To Implementation
-- 网页版地址：[https://datawhalechina.github.io/ML-FTTI/](https://datawhalechina.github.io/ML-FTTI/)
+Machine Learning: From Theory To Implementation
+
+- 网页版教程链接戳[这里](https://datawhalechina.github.io/ML-FTTI/)
+- 《树模型与集成学习》章节内容已完成，b站视频讲解戳[这里](https://www.bilibili.com/video/BV1wF411e73j?from=search&seid=9841078173332028525&spm_id_from=333.337.0.0)
 
 ## 贡献者名单
 
